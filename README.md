@@ -15,6 +15,6 @@ To start the server run the following command in the project directory:
 ### `npm run dev`
 
 To view the data available in the browser.<br />
-Open [http://localhost:5000/phone]
+Open [http://localhost:5000/phones]
 
 To view full integrated project in the browser, after starting the server, go to [phone-catalogue-front](https://github.com/anniavdc/phone-catalogue-front) and run npm start.<br />
